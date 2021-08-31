@@ -2,6 +2,10 @@
 
 This repository serves as a custom calendar for tracking Gitlab milestones and issues.
 
+## Prerequisites
+
+Install [Node.js](https://nodejs.org/en/), which comes with **npm**.
+
 ## Using
 
 ```properties
